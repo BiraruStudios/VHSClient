@@ -13,7 +13,7 @@ VHSClient is a Roblox module that provides an easy-to-use interface for creating
 
 ## Installation
 
-**VHSClient can only be used on the client, any extensions like VHSPlus uses it by utilizing RemoteEvents**
+**VHSClient can only be used on the client**
 
 ### Using Wally
 
