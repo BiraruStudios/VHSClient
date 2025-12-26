@@ -1,0 +1,6 @@
+{
+    "name": "VHSClient",
+    "tree": {
+		"$path": "./src"
+    }
+}

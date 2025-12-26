@@ -1,0 +1,12 @@
+{
+    "name": "VHSClient",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "VHSClient": {
+                "$path": "./src"
+            }
+        }
+    }
+}
