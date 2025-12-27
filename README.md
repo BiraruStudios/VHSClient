@@ -15,21 +15,6 @@ VHSClient is a Roblox module that provides an easy-to-use interface for creating
 
 **VHSClient can only be used on the client**
 
-### Using Wally
-
-Add the following to your `wally.toml` file:
-
-```toml
-[dependencies]
-VHSClient = "birarux/vhsclient@^1.0.0"
-```
-
-Then run:
-
-```
-wally install
-```
-
 ### Manual Installation
 Download the latest release from the releases page.
 Place the VHSClient.rbxm file in your Roblox project.
